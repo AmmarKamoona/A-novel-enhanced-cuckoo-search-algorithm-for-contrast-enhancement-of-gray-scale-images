@@ -1,6 +1,6 @@
 # A-novel-enhanced-cuckoo-search-algorithm-for-contrast-enhancement-of-gray-scale-images
 This is the implementation code for the paper "A novel enhanced cuckoo search algorithm for contrast enhancement of gray scale images
-"
+```
 @article{KAMOONA2019105749,
 title = "A novel enhanced cuckoo search algorithm for contrast enhancement of gray scale images",
 journal = "Applied Soft Computing",
@@ -13,4 +13,4 @@ url = "http://www.sciencedirect.com/science/article/pii/S1568494619305307",
 author = "Ammar Mansoor Kamoona and Jagdish Chandra Patra",
 keywords = "Optimization algorithms, Image contrast enhancement, Cuckoo search algorithm, Enhanced cuckoo search algorithm"
 }
-" 
+```
