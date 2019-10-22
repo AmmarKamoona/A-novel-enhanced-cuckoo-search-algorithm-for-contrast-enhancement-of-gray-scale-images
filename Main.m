@@ -1,4 +1,4 @@
-% This code is the implementation of the paper apperead in Applied Soft Computing journal 
+% This code is the implementation of the paper appeared in Applied Soft Computing journal 
 % Written by Ammar Kamoona@2017
 %Pleas cite when you use the code
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
