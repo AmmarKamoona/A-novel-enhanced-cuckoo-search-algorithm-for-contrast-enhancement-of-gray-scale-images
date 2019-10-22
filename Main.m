@@ -20,7 +20,4 @@ Max_iter=20;
 for i=1:13
     %uncomment the following for the proposed enhanced cuckoo search using proposed range
       [fnewmax1,best_nest_max1,fitconveg1]=im_ecs(i,Max_iter);
-    %uncomment the following for the standard cuckoo search
-      [fnewmax3,best_nest_max3,fitconveg3]=im_cs(i,Max_iter);
-
 end
